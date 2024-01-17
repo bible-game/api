@@ -1,7 +1,9 @@
 # api
-Public API for retrieving Bible passages 📜✨
+📜✨ Public API for Bible passages
 
-* bible.muntjac.io/api/mathew+16:1-20/niv
-* api.bible.game/mathew+16:1-20/niv
-* bible-api.com/mathew+16:1-20/niv
-* bible.game/mathew+16:1-20/niv
+<br>
+
+* [bible.muntjac.io/api/mathew+16:1-20/niv]()
+* [api.bible.game/mathew+16:1-20/niv]()
+* [bible-api.com/mathew+16:1-20/niv]()
+* [bible.game/mathew+16:1-20/niv]()
