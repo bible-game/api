@@ -1,5 +1,5 @@
 # api
-📜✨ Public API for Bible passages
+Public API for Bible passages 📜✨
 
 <br>
 
